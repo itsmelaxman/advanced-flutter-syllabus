@@ -625,7 +625,7 @@ We welcome contributions to the Advanced Flutter Developer Syllabus! If you have
 
 If you encounter any problems or have suggestions for enhancements, please create an issue:
 
-1. Go to the [Issues](../../issues) tab.
+1. Go to the [Issues](https://github.com/itsmelaxman/advanced-flutter-syllabus/issues) tab.
 2. Click on the `New Issue` button.
 3. Provide a clear and detailed description of the issue or suggestion.
 
@@ -644,7 +644,7 @@ We welcome pull requests for improvements and new sections. To submit a pull req
 If you have ideas on how to enhance the syllabus, you can:
 
 - Create an issue with the `enhancement` label.
-- Start a discussion in the [Discussions](../../discussions) tab.
+- Start a discussion in the [Discussions](https://github.com/itsmelaxman/advanced-flutter-syllabus/discussions/) tab.
 
 We appreciate your contributions to make this syllabus better for everyone!
 
